@@ -1,0 +1,100 @@
+@font-face {
+    font-family: "Blue-Eyes";
+    src: url('blue_eyes/Blue Eyes - Personal Use.otf');
+  }
+
+html,body{
+    margin:0;
+    padding:0;
+}
+
+.hauteur1{
+    min-height:15vh;
+  }
+
+  .hauteur2{
+    min-height:5vh;
+  }
+
+  .hauteur3{
+    min-height:100px;
+  }
+
+  h1{
+    color:#c79f1c;
+    font-size:3em;
+  }
+
+  h1,h2,h3,h4{
+    font-family: "Blue-Eyes", Helvetica, Arial, sans-serif;
+    }
+
+  h2,h3,li{
+    color:#f2f1ed;
+  }
+
+  h4{
+    color:#454442;
+    font-size:2em;
+  }
+
+ 
+
+  a{
+    color:grey;
+  }
+
+  a.lien:link{
+    color:grey; 
+  }
+
+  a.lien:hover{
+    color:grey;
+  }
+
+  a.lien:active{
+    color:red;
+  }
+
+  a.lien:visited{
+    color:#c79f1c;
+  }
+  a.textcolor{
+    color:white;
+  }
+
+  p.textColor2{
+    color:grey;
+  }
+  .mini1{
+    color:white;
+  }
+
+  .bordure{
+    border:1px solid #ffffff;
+    background:rgba(199,159,28,0.9);
+  }
+
+  .bordure2{
+    background:rgba(215,167,160,0.8);
+  }
+
+  .liste ul li{
+    list-style-type: none;
+  }
+
+  .fond1{
+    background:rgba(215,167,160,0.5);
+  }
+
+  .fond2{
+    background:#a3a099;
+  }
+
+  .fond3{
+    background:#d1b2bd;
+  }
+
+  .rond{
+    border-radius:50%;
+  }
